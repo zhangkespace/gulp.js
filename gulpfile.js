@@ -1,5 +1,6 @@
 //相关链接:http://ju.outofmemory.cn/entry/69523
-
+              //http://www.techug.com/gulp
+              //http://www.ydcss.com/
 var gulp = require('gulp');//返回一个对象
 //gulp对象的一些API(编程接口又叫对象的方法):
 
