@@ -1,0 +1,23 @@
+.className {
+  background-color: #fff;
+  border-radius: 5px;
+}
+.className a {
+  color: red;
+}
+.className a:hover {
+  text-decoration: underline;
+}
+
+.qmgj {
+  background-color: #fff;
+  color: yellow;
+  -webkit-animation: all 1s linear;
+          animation: all 1s linear;
+}
+
+.qmgj {
+  background-color: #eee;
+  color: blue;
+
+}

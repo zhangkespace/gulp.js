@@ -1,0 +1,10 @@
+.className {
+  background-color: #fff;
+  border-radius: 5px;
+}
+.className a {
+  color: red;
+}
+.className a:hover {
+  text-decoration: underline;
+}
