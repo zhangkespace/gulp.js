@@ -54,7 +54,7 @@ gulp.task('text',function(){
 var less = require('gulp-less');//自动生成css
 var cleanCss = require('gulp-clean-css');//压缩css
 
-var LessAutoprefix = require('gulp-autoprefixer');//自动补全兼容
+var LessAutoprefix = require('gulp-autoprefixer');//gulp-autoprefixer根据设置浏览器版本自动处理浏览器前缀
 var concat = require('gulp-concat');//合并两个文件到指定的文件名
 var uglify = require('gulp-uglify');//压缩js
 var connect = require('gulp-connect');//建服务器 返回一个对象
